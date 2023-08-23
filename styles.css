@@ -71,7 +71,7 @@ button{
     
     background-color: #101941;
     background-image: url(images/3.png);
-    background-blend-mode: overlay;
+    background-blend-mode: overlay; 
     /* background-repeat: no-repeat; */
     background-size: cover;
     /* background-position: center; */
